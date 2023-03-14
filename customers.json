@@ -1,0 +1,22 @@
+[
+    {
+        "name": "aaa",
+        "surname": "bbb",
+        "place_in_row": "222"
+    },
+    {
+        "name": "aaa",
+        "surname": "bbbb",
+        "place_in_row": "1111"
+    },
+    {
+        "name": "zzz",
+        "surname": "dddd",
+        "place_in_row": "7777"
+    },
+    {
+        "name": "zzz",
+        "surname": "dddd",
+        "place_in_row": "777"
+    }
+]
